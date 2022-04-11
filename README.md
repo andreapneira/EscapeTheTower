@@ -17,3 +17,11 @@ El nivel 2, cueta con un minijuego de tiro al blanco, el minijuego dura 10 segun
 # Nivel 3:
 
 El nivel 3 cuenta con una habitacion llena de imagenes, donde una de ellas da la pista para resolver el puzle y entre las imagenes se encuentran las que son correctas. La finalidad de este nivel es encontrar los numeros adecuados para ingresar por la puerta para por fin "escapar" o no...
+
+# Desarrolladores:
+
+Andrea Peñaranda Neira
+Tutor: Julieta Altamirano
+
+Tomás Orlando González Padilla
+Tutor: Diego Gandolfo
